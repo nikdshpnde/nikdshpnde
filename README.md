@@ -15,8 +15,9 @@ Passionate about crafting elegant solutions from raw data to forge business grow
 - Product Management: Leading cross-functional teams through roadmap planning, prioritization, and execution, exceeding revenue targets and user expectations.
 - Quantitative Modeling: XGBOOST and machine learning enthusiast, building models to optimize resource allocation, pricing strategies, and customer experience.
 
-# 🚀 Proven Track Record
+# 🚀 Achievements
 
+- Rising Star Award at TC Global for outstanding contributions for managing 5 products and 15+ cross-functional team members driving Go-To-Market        Strategies, conducting Gap/SWOT analyses, and Porter’s 5 achieving 95% customer engagement, and implementing data-driven campaigns, increasing the  revenue by 85%
 - Spearheaded market research utilizing Gartner and Forrester reports.
 - Optimized data analysis with Root-Cause Analysis, resulting in a 20% efficiency boost.
 - Enhanced user satisfaction and retention with Power BI insights.
