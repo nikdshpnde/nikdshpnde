@@ -1,8 +1,5 @@
 ### Seasoned Sr. Business Analyst | Product Manager | Data Enthusiast 📊 👋
 
-<!--
-**nikdshpnde/nikdshpnde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 About Me
 
 🏢 Currently driving innovation at Vizible Results Inc, Boston, MA.
@@ -38,5 +35,3 @@ Passionate about crafting elegant solutions from raw data to forge business grow
 Change Management | Project Governance | Business Analytics | Process Optimization | SDLC | Stakeholder Management.
 
 Let's collaborate and drive data-driven solutions! 💼📈
-
--->
