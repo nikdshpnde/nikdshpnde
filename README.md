@@ -35,6 +35,6 @@ Passionate about crafting elegant solutions from raw data to forge business grow
 
 Change Management | Project Governance | Business Analytics | Process Optimization | SDLC | Stakeholder Management.
 
-Product POrtfolio: https://northeastern.digication.com/nikhil-deshpande/about-me
+Product Portfolio: https://northeastern.digication.com/nikhil-deshpande/about-me
 
 Let's collaborate and drive data-driven solutions! 💼📈
